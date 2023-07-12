@@ -1,6 +1,6 @@
 # GenerateRecordsD365
 
-The program was created for test filling entities to check installed parameters in D365. Conditions:
+The program was created for test filling entities to check installed parameters in MS Dynamics 365. Conditions:
 • Reserved pickup date/time should be somewhere between 1.1.2019 and 31.12.2020
 • Reserved handover date/time should be 1-30 days after Reserved pickup date/time
 • Car class should be selected randomly
